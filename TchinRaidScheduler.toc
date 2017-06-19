@@ -1,0 +1,9 @@
+## Interface: 70200
+## Author: Volchan
+## Version: 0.8beta
+## Title: |cff1784d1TchinRaidScheduler|r
+## Notes: Invite automation for thïn's raid viewer | 0.8beta
+
+component.xml
+config.lua
+init.lua
